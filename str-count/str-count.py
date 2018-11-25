@@ -1,4 +1,4 @@
 """author: @pythonpips"""
 
-print("Hello, World!".count('o'))
+"Hello, World!".count('o')
 # outputs 2
