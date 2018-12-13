@@ -1,0 +1,8 @@
+"""author: @pythonpips"""
+
+foo = []
+
+if not foo:
+    print('list is empty')
+    
+# outputs: list is empty
